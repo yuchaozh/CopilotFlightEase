@@ -1,22 +1,116 @@
 [
-    {
-      "airline": "United Airlines",
-      "flight_number": "UA341",
-      "departure_airport": "SEA",
-      "destination_airport": "EWR",
-      "departure_time": "Mon, 11 Mar 2024 10:00:00 GMT",
-      "arrival_time": "Mon, 11 Mar 2024 16:00:00 GMT",
-      "connections": 0,
-      "class": "Economy"
-    },
-    {
-        "airline": "United Airlines",
-        "flight_number": "UA342",
-        "departure_airport": "EWR",
-        "destination_airport": "SEA",
-        "departure_time": "Mon, 11 Mar 2024 20:00:00 GMT",
-        "arrival_time": "Mon, 12 Mar 2024 03:00:00 GMT",
-        "connections": 0,
-        "class": "Economy"
-    }
+  {
+    "airline": "United Airlines",
+    "flight_number": "UA341",
+    "departure_airport": "SEA",
+    "destination_airport": "EWR",
+    "departure_time": "Mon, 11 Mar 2024 10:00:00 GMT",
+    "arrival_time": "Mon, 11 Mar 2024 16:00:00 GMT",
+    "connections": 0,
+    "duration_time": "2h 20m",
+    "class": "Economy",
+    "price": "$800"
+  },
+  {
+    "airline": "United Airlines",
+    "flight_number": "UA342",
+    "departure_airport": "EWR",
+    "destination_airport": "SEA",
+    "departure_time": "Mon, 11 Mar 2024 20:00:00 GMT",
+    "arrival_time": "Mon, 12 Mar 2024 03:00:00 GMT",
+    "connections": 0,
+    "duration_time": "2h 20m",
+    "class": "Economy",
+    "price": "$680"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 588",
+    "departure_time": "Mon, 01 Aug 2024 19:55:00 GMT",
+    "arrival_time": "Tue, 02 Aug 2024 23:15:00 GMT",
+    "connections": 0,
+    "duration_time": "13h 20m",
+    "class": "Economy",
+    "price": "$1,563"
+  },
+  {
+    "airline": "Multiple Airlines",
+    "flight_number": "MU 587",
+    "departure_time": "Mon, 01 Aug 2024 21:20:00 GMT",
+    "arrival_time": "Wed, 02 Aug 2024 03:55:00 GMT",
+    "connections": 1,
+    "duration_time": "15h 35m",
+    "class": "Economy",
+    "price": "$1,737"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 588",
+    "departure_time": "Wed, 03 Aug 2024 19:55:00 GMT",
+    "arrival_time": "Thu, 04 Aug 2024 23:15:00 GMT",
+    "connections": 0,
+    "duration_time": "13h 20m",
+    "class": "Economy",
+    "price": "$1,563"
+  },
+  {
+    "airline": "Multiple Airlines",
+    "flight_number": "MU 587",
+    "departure_time": "Wed, 03 Aug 2024 21:20:00 GMT",
+    "arrival_time": "Fri, 04 Aug 2024 03:55:00 GMT",
+    "connections": 1,
+    "duration_time": "15h 35m",
+    "class": "Economy",
+    "price": "$1,737"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 588",
+    "departure_time": "Fri, 05 Aug 2024 19:55:00 GMT",
+    "arrival_time": "Sat, 06 Aug 2024 23:15:00 GMT",
+    "connections": 0,
+    "duration_time": "13h 20m",
+    "class": "Economy",
+    "price": "$1,563"
+  },
+  {
+    "airline": "Multiple Airlines",
+    "flight_number": "MU 587",
+    "departure_time": "Fri, 05 Aug 2024 21:20:00 GMT",
+    "arrival_time": "Sun, 06 Aug 2024 03:55:00 GMT",
+    "connections": 1,
+    "duration_time": "15h 35m",
+    "class": "Economy",
+    "price": "$1,737"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 588",
+    "departure_time": "Sun, 07 Aug 2024 19:55:00 GMT",
+    "arrival_time": "Mon, 08 Aug 2024 23:15:00 GMT",
+    "connections": 0,
+    "duration_time": "13h 20m",
+    "class": "Economy",
+    "price": "$1,563"
+  },
+  {
+    "airline": "Multiple Airlines",
+    "flight_number": "MU 587",
+    "departure_time": "Sun, 07 Aug 2024 21:20:00 GMT",
+    "arrival_time": "Tue, 08 Aug 2024 03:55:00 GMT",
+    "connections": 1,
+    "duration_time": "15h 35m",
+    "class": "Economy",
+    "price": "$1,737"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "flight_number": "DL 588",
+    "departure_time": "Tue, 09 Aug 2024 19:55:00 GMT",
+    "arrival_time": "Wed, 10 Aug 2024 23:15:00 GMT",
+    "connections": 0,
+    "duration_time": "13h 20m",
+    "class": "Economy",
+    "price": "$1,563"
+  }
 ]
